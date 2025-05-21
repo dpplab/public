@@ -1,0 +1,22 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+Icon?
+ehthumbs.db
+Thumbs.db
+
+*.log
+*.out
+
+.env
+.env.*
+!.env.example
+
+.stignore
+.stignore.*
+
+node_modules/
+
